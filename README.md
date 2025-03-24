@@ -27,6 +27,16 @@ This project explores deep learning-based classification of ground targets in Sy
 - `requirements.txt`: Libraries used
 
 ---
+### 📂 Deep Learning Models
+
+| Model                        | Description                                                     | Notebook Link                                                                 |
+|-----------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 📊 Data Visualization       | Visual inspection of the MSTAR dataset                         | [📓 View Notebook](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/Data_Visualization.ipynb) |
+| 🧠 Custom CNN (ResNet50)     | Baseline ResNet-inspired CNN for SAR classification            | [📓 View Notebook](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/Cnn(ResNet50).ipynb)       |
+| ⚡ MobileNetV2 (Fine-Tuned)  | Lightweight CNN fine-tuned for edge deployment                  | [📓 View Notebook](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/MobileNetV2_.ipynb)        |
+| 🧠 Vision Transformer (ViT)  | Transformer model capturing global SAR features                 | [📓 View Notebook](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/ViT.ipynb)                 |
+| 🔗 Hybrid CNN + ViT         | Fused model combining CNN local features + ViT global features | [📓 View Notebook](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/Hybrid_vitcnn.ipynb)       |
+
 
 ## ✅ Final Test Accuracies
 
