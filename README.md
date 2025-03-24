@@ -49,7 +49,7 @@ This project explores deep learning-based classification of ground targets in Sy
 
 ## 📄 Report
 
-Full project report with system design, algorithm iterations, and analysis:[📓 View final-report](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/Cnn(ResNet50).ipynb)
+Full project report with system design, algorithm iterations, and analysis:[📓 View final-report](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/Ground_Target_classification_mune0001.pdf))
 
 ---
 
