@@ -45,19 +45,11 @@ This project explores deep learning-based classification of ground targets in Sy
 - **Siamese network** using the hybrid model showed strong performance (95.5%) for pairwise similarity tasks.
 - Extensive use of transfer learning, data augmentation, and mixed precision to address the small dataset challenge.
 
----
 
-## 🛠️ Setup
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 📄 Report
 
-Full project report with system design, algorithm iterations, and analysis: [link-to-final-report.pdf](#)
+Full project report with system design, algorithm iterations, and analysis:[📓 View final-report](https://github.com/Mulubrhan21/Radar_Target_Classification_mstar/blob/main/DLmodels/Cnn(ResNet50).ipynb)
 
 ---
 
